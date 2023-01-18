@@ -72,6 +72,7 @@ NOTE: If you are wanting to have multiple effects accepted then add commas for s
 These are the bits of text that appear below the main text of your customer request. There are **two** different types of additional requirements you can have...MANDATORY and OPTIONAL.
 
 A MANDATORY requirement means it will appear with a red exclamation point in which the requirement MUST be met to satisfy your customer. There can be up to 2 of these.
+
 AN OPTIONAL requirement means it will appear with a green + sign in which it's entirely optional for you to adhere to. However customers still can be moody with you if you don't complete them. There can also be up to 2 of these.
 
 There can be up to 4 requirements on a given quest (2 mandatory and 2 optional) but only if they are compatible with each other.
@@ -86,7 +87,9 @@ You can see all the information regarding requirements [here](https://github.com
 ```
 
 For the above mandatory example I have used 2 mandatory requirements.
+
 **AdditionalEffects** - Customer will ask for additional potion effects to be in their potion alongside the main desired effect.
+
 **NeedOneParticularIngredient** - Customer will ask for at least 1 of this ingredient to be included within the potion.
 
 ```json
@@ -97,7 +100,9 @@ For the above mandatory example I have used 2 mandatory requirements.
 ```
 
 For the above optional example I have used 2 optional requirements.
+
 **OnlyWeakPotions** - Customer will want the main potion effect to be Tier 1.
+
 **NoParticularIngredient** - The customer will NOT want this particular ingredient in their potion.
 
 
