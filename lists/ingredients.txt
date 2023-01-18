@@ -1,0 +1,58 @@
+ArcaneCrystal > Arcane Crystal
+BloodRuby > Blood Ruby
+Bloodthorn > Bloodthorn
+Boombloom > Boombloom
+CloudCrystal > Cloud Crystal
+Coldleaf > Coldleaf
+DragonPepper > Dragon Pepper
+DreamBeet > Dream Beet
+DruidsRosemary > Druid's Rosemary
+DryadsSaddle > Dryad's Saddle
+EarthPyrite > Earth Pyrite
+EvergreenFern > Evergreen Fern
+FableBismuth > Fable Bismuth
+Featherbloom > Featherbloom
+Firebell > Firebell
+FireCitrine > Fire Citrine
+Flameweed > Flameweed
+Fluffbloom > Fluffbloom
+FoggyParasol > Foggy Parasol
+FrostSapphire > Frost Sapphire
+GoblinMushroom > Goblin Shroom
+Goldthorn > Goldthorn
+Goodberry > Goodberry
+GraspingRoot > Grasping Root
+GraveTruffle > Grave Truffle
+HairyBanana > Hairy Banana
+HealersHeather > Healer's Heather
+Icefruit > Icefruit
+KrakenMushroom > Kraken Mushroom
+Lavaroot > Lavaroot
+LifeCrystal > Life Crystal
+Lifeleaf > Lifeleaf
+LustMushroom > Lust Mushroom
+MadMushroom > Mad Mushroom
+Mageberry > Mageberry
+MagmaMorel > Magma Morel
+Marshroom > Marshroom
+MossShroom > Moss Shroom
+Mudshroom > Mudshroom
+PhantomSkirt > Phantom Skirt
+PlagueStibnite > Plague Stibnite
+Poopshroom > Poopshroom
+RainbowCap > Rainbow Cap
+ShadowChanterelle > Shadow Chanterelle
+Spellbloom > Spellbloom
+StinkMushroom > Stink Mushroom
+SulphurShelf > Sulphur Shelf
+Tangleweed > Tangleweed
+Terraria > Terraria
+TerrorBud > Terror Bud
+Thornstick > Thornstick
+ThunderThistle > Thunder Thistle
+Waterbloom > Waterbloom
+Watercap > Watercap
+Weirdshroom > Weirdshroom
+Whirlweed > Whirlweed
+Windbloom > Windbloom
+WitchMushroom > Witch Mushroom
